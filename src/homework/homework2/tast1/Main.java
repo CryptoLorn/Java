@@ -1,4 +1,4 @@
-package homework.homework1.homework2.tast1;
+package homework.homework2.tast1;
 
 public class Main {
     public static void main(String[] args) {

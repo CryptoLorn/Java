@@ -1,4 +1,4 @@
-package classwork.classwork1.classwork2.task1;
+package classwork.classwork2.task1;
 
 public class Trumpet implements Tool {
     private int diameter;

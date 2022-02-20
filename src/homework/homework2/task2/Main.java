@@ -1,4 +1,4 @@
-package homework.homework1.homework2.tast1.task2;
+package homework.homework2.task2;
 
 import java.util.ArrayList;
 

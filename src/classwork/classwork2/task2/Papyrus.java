@@ -1,4 +1,4 @@
-package classwork.classwork1.classwork2.task1.task2;
+package classwork.classwork2.task2;
 
 public class Papyrus {
     private int thickness;
