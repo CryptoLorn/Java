@@ -1,4 +1,4 @@
-package classwork1;
+package classwork.classwork1;
 
 public class Main {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package classwork1;
+package classwork.classwork1;
 
 import lombok.*;
 
